@@ -42,7 +42,28 @@ except ValueError:
 
 
 
-CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
+CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", ⌜━━━━━━━━━━━━━━━━━━━⌝
+•  𝗧𝗵𝗲 𝗔𝗰𝗲 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 (https://t.me/The_Ace_Network)
+│───────────────────────│
+☞ Mᴀɪɴ Cʜᴀɴɴᴇʟ: ᴛʜᴇ ᴀᴄᴇ ᴇᴍᴘᴇʀᴏʀ (https://t.me/The_Ace_Emperor)
+│───────────────────────│
+☞ ᴇɴɢʟɪꜱʜ Aɴɪᴍᴇ: 𝗧ʜᴇ 𝗔ᴄᴇ 𝗖ᴏꜱᴍᴏꜱ (https://t.me/The_Anime_Cosmos) 
+☞ ʜɪɴᴅɪ Aɴɪᴍᴇ: 𝗧ʜᴇ 𝗔ᴄᴇ 𝗔ɴɪᴍᴇ (https://t.me/The_Ace_Anime)
+│───────────────────────│
+☞ ʜɪɴᴅɪ Oɴɢᴏɪɴɢ: 𝗧ʜᴇ 𝗔ᴄᴇ 𝗢ɴɢᴏɪɴɢ (https://t.me/The_Ace_Ongoing)
+☞ ᴇɴɢʟɪꜱʜ Oɴɢᴏɪɴɢ: 𝗧ʜᴇ 𝗢ɴɢᴏɪɴɢ 𝗖ᴏꜱᴍᴏꜱ (https://t.me/The_Ongoing_Cosmos)
+│───────────────────────│
+☞ Mᴀɴʜᴡᴀ Cʜᴀɴɴᴇʟ: 𝗧ʜᴇ 𝗠ᴀɴʜᴡᴀ 𝗘ᴍᴘᴇʀᴏʀ (https://t.me/The_Manhwa_Emperor)
+☞ Mᴀɴɢᴀ Cʜᴀɴɴᴇʟ: 𝗧ʜᴇ 𝗠ᴀɴɢᴀ 𝗘ᴍᴘᴇʀᴏʀ (https://t.me/The_Manga_Emperor)
+│───────────────────────│
+❐ Nᴇᴛᴡᴏʀᴋ: ᴛʜᴇ ᴀᴄᴇ ɴᴇᴛᴡᴏʀᴋ (https://t.me/The_Ace_Network)
+│───────────────────────│
+❃ Mᴏᴠɪᴇs Cʜᴀɴɴᴇʟ: ғʟɪx ᴠᴇʀsᴇ (http://t.me/Flix_Verse)
+❃ σтт Cʜᴀɴɴᴇʟ: 𝗧ʜᴇ 𝗢ᴍɴɪꜱᴇʀɪᴇꜱ (https://t.me/The_Omniseries) 
+❃ Aᴅᴜʟᴛ Nᴇᴛᴡᴏʀᴋ: 𝗧ʜᴇ 𝗖ᴜʟᴛᴜʀᴇᴅ 𝗗ɪꜱᴛʀɪᴄᴛ (https://t.me/The_Cultured_District)
+│───────────────────────│
+ (https://t.me/+lB05vD5bGyszMzg1)❐ Rᴇǫ/Cʜᴀᴛ: 𝘾𝙝𝙖𝙩𝙞𝙣𝙜 𝙃𝙪𝙗 (https://t.me/+lB05vD5bGyszMzg1)
+ ⌞━━━━━━━━━━━━━━━━━━━⌟)
 
 PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" else False
 
