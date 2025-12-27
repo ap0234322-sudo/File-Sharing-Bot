@@ -11,8 +11,8 @@ API_HASH = os.environ.get("API_HASH", "0925ddfb14a82c71de08b93e53c440f3")
 
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "@AP_Ichigo_Kurosaki"))
-DB_URL = os.environ.get("DB_URL", "https://t.me/the_Ace_Emperor")
-DB_NAME = os.environ.get("DB_NAME", "madflixbotz")
+DB_URL = os.environ.get("DB_URL", "https://console.firebase.google.com/project/my-file-sharing-bot/database/my-file-sharing-bot-default-rtdb/data/~2F?fb_gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3Atk9FFhZwZ_vikOqWsA0qzp3K4SU90ZkUVo3XCknx_B9VoaFWprKEaAgKlEALw_wcB")
+DB_NAME = os.environ.get("DB_NAME", "My File sharing bot")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "https://t.me/+PUUjPCL4L8YzZDU9"))
