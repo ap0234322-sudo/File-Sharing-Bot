@@ -1,8 +1,8 @@
 import pymongo, os
-from config import DB_URL, DB_NAME
+from config import DB_URL,DB_NAME
 
-dbclient = pymongo.MongoClient(DB_URL)
-database = dbclient[DB_NAME]
+dbclient = pymongo.MongoClient(mongodb+srv://aaravp4ajapat_db_user:5ikmuTNBwJu7nvn8@cluster0.ihvldiq.mongodb.net/)
+database = dbclient[aaravp4ajapat_db_user]
 user_data = database['users']
 
 
