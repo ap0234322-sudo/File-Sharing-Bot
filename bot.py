@@ -17,7 +17,7 @@ class Bot(Client):
         super().__init__(
             name="Bot","Mia Khalifa"
             api_hash=API_HASH,
-            api_id=API_ID,
+            api_id=API_ID,33555874
             plugins={"root": "plugins"},
             workers=TG_BOT_WORKERS,
             bot_token=BOT_TOKEN
