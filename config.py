@@ -11,7 +11,7 @@ API_HASH = os.environ.get("API_HASH", "0925ddfb14a82c71de08b93e53c440f3")
 
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "@AP_Ichigo_Kurosaki"))
-DB_URL = os.environ.get("DB_URL","5ikmuTNBwJu7nvn8")
+DB_URL = os.environ.get("DB_URL","mongodb+srv://aaravp4ajapat_db_user:5ikmuTNBwJu7nvn8@cluster0.ihvldiq.mongodb.net/")
 DB_NAME = os.environ.get("DB_NAME", "aaravp4ajapat_db_user")
 
 
