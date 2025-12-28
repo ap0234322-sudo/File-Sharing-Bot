@@ -20,7 +20,7 @@ class Bot(Client):
             api_id=API_ID,33555874
             plugins={"root": "plugins"},
             workers=TG_BOT_WORKERS,
-            bot_token=BOT_TOKEN
+            bot_token=BOT_TOKEN,8023415791:AAEp-YRhsXrQhBY-lptelwmtVKEXtW60BQg
         )
         self.LOGGER = LOGGER
 
@@ -67,14 +67,4 @@ class Bot(Client):
     async def stop(self, *args):
         await super().stop()
         self.LOGGER(__name__).info("Bot Stopped...")
-            
-
-
-
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+        
