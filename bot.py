@@ -20,7 +20,7 @@ class Bot(Client):
             api_id=API_ID,33555874
             plugins={"root": "plugins"},
             workers=TG_BOT_WORKERS,
-            bot_token=BOT_TOKEN,8023415791:AAEp-YRhsXrQhBY-lptelwmtVKEXtW60BQg
+            bot_token=BOT_TOKEN,8536820680:AAG7fdLQn7YWdQkhOz7cYnO-fvv8adtwJDg
         )
         self.LOGGER = LOGGER
 
